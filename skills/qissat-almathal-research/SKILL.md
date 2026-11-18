@@ -1,9 +1,9 @@
 ---
 name: qissat-almathal-research
-description: Use when choosing a proverb for قصة المثل (Plus), verifying its origin story and wording in documented sources, or writing an idea pitch for an episode.
+description: Use when choosing a proverb for قصة المثل (أخبار المجتمع), verifying its origin story and wording in documented sources, or writing an idea pitch for an episode.
 ---
 
-# قصة المثل | بلس — اختيار المثل والتحقق من قصته
+# قصة المثل | أخبار المجتمع — اختيار المثل والتحقق من قصته
 
 هذي السكل للمرحلة اللي قبل الكتابة: نختار المثل، نتحقق من قصته من مصادر موثقة، ونطلع بفكرة حلقة (Pitch) أو بملف مصادر جاهز للكاتب.
 

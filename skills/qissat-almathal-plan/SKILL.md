@@ -1,9 +1,9 @@
 ---
 name: qissat-almathal-plan
-description: Use when planning or tracking a season or batch of قصة المثل (Plus) episodes, building the proverb list and production schedule, or syncing episodes to Google Drive and Asana.
+description: Use when planning or tracking a season or batch of قصة المثل (أخبار المجتمع) episodes, building the proverb list and production schedule, or syncing episodes to Google Drive and Asana.
 ---
 
-# قصة المثل | بلس — خطة الحلقات والمتابعة
+# قصة المثل | أخبار المجتمع — خطة الحلقات والمتابعة
 
 هذي السكل لإدارة البرنامج كسلسلة: قائمة الأمثال، حالة كل حلقة، الجدول، والمزامنة مع الدرايف وأسانا.
 
