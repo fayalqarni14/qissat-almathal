@@ -13,6 +13,8 @@
 مراجع مساندة:
 - `skills/qissat-almathal-research/references/sources.md` — مصادر الأمثال الفصيحة والشعبية والحديث والشعر.
 - `skills/qissat-almathal-episode/references/delivery-template.md` — قالب تسليم الحلقة.
+- `skills/qissat-almathal-episode/references/examples.md` — حلقتان منفّذتان كمرجع للشكل والنبرة.
+- `examples/` — ملفات Word الأصلية للحلقات السابقة.
 
 ## سير العمل
 
